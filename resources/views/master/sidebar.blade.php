@@ -8,7 +8,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center shadow bg-gradient-dark" href="/dashboard">
                 <div class="sidebar-brand-icon ">
-                    <i class="bi bi-hospital"></i>
+                    <img src="https://i.postimg.cc/NM2233Zh/Logo-nobg.png" alt="" style="width: 50px;">
                 </div>
                 <div class="sidebar-brand-text mx-3">SMKN 1 SURABAYA
                 </div>
